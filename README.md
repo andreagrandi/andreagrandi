@@ -5,6 +5,7 @@ My name is **Andrea Grandi** and I'm a **software engineer** currently based in 
 - 🔭 I work as 🐍 **Python** developer for LaterPay a German company with a fully distributed and remote team.
 - 🌍 You can find my website here: https://www.andreagrandi.it/
 - 🌱 I’m currently learning **Go**
+- 💬 How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/andreagrandi/a0a7218ea15ff8b6aadfd897cd0fbae2)
 - 📫 How to get in touch: **me** [at] **andreagrandi.it**
 
 <!--
