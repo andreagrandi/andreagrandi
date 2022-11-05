@@ -9,7 +9,7 @@ My name is **Andrea Grandi** and I'm a **software engineer** currently based in 
 - 💬  How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/andreagrandi/a0a7218ea15ff8b6aadfd897cd0fbae2)
 - 📫  How to get in touch: **me** [at] **andreagrandi.it**
 
-<a rel="me" href="https://mastodon.social/@andreagrandi">Mastodon</a>
+<link rel="me" href="https://mastodon.social/@andreagrandi" />
 
 <!--
 **andreagrandi/andreagrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
