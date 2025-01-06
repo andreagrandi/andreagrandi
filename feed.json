@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Andrea Grandi",
+	"icon": "https://micro.blog/andreagrandi/avatar.jpg",
+	"home_page_url": "https://micro.andreagrandi.it/",
+	"feed_url": "https://micro.andreagrandi.it/feed.json",
+	"items": [
+		
+			{
+				"id": "http://andreagrandi.micro.blog/2024/05/07/allhandsday.html",
+				"title": "Second day in Maiorca",
+				"content_html": "<p><img src=\"https://micro.andreagrandi.it/uploads/2024/breakfast.jpeg\" alt=\"\"></p>\n<p>The second day in Maiorca (I&rsquo;m here for my company annual retreat) started with a very nice breakfast with a wonderful view on the sea.</p>\n<p>We had a few sessions during the day (unfortunately I can&rsquo;t talk about them) followed by some relaxing time next to the swimming pool.</p>\n<p>The weather is nice and in my spare time I&rsquo;m keeping an eye on the last few things being prepared for the next PyCon Italy.</p>\n",
+				"content_text": "![](https://micro.andreagrandi.it/uploads/2024/breakfast.jpeg)\n\nThe second day in Maiorca (I'm here for my company annual retreat) started with a very nice breakfast with a wonderful view on the sea.\n\nWe had a few sessions during the day (unfortunately I can't talk about them) followed by some relaxing time next to the swimming pool.\n\nThe weather is nice and in my spare time I'm keeping an eye on the last few things being prepared for the next PyCon Italy.\n",
+				"date_published": "2024-05-07T17:23:22+01:00",
+				"url": "https://micro.andreagrandi.it/2024/05/07/allhandsday.html"
+			}
+	]
+}
